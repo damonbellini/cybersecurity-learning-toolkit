@@ -3,7 +3,7 @@
 ## Core Foundations
 - [ ] CIA triad
 - [ ] Authentication and authorisation
-- [ ] Least privilege
+- [x] Least privilege
 - [ ] Risk and threat concepts
 - [ ] Common attack and defence models
 
@@ -59,10 +59,24 @@
 ## Web Security
 - [ ] HTTP fundamentals
 - [ ] Authentication
+- [x] Authentication vs authorization
 - [ ] Access control
 - [ ] Input validation
 - [ ] OWASP Top 10 concepts
 - [ ] Burp Suite fundamentals
+
+## Cloud Security
+- [x] AWS security fundamentals
+- [ ] Azure security fundamentals
+- [ ] GCP security fundamentals
+- [x] IAM
+- [x] Least privilege
+- [ ] Storage security
+- [ ] Network security
+- [ ] Cloud logging
+- [ ] Secrets management
+- [ ] Containers
+- [x] Cloud misconfiguration detection
 
 ## Reconnaissance
 - [ ] Passive reconnaissance
