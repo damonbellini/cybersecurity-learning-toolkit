@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-19T08:30:00Z","source_ip":"192.0.2.10","username":"training-user","event_type":"authentication","outcome":"failed"}
+{"timestamp":"2026-10-19T08:31:00Z","source_ip":"192.0.2.10","username":"training-user","event_type":"authentication","outcome":"failed"}
+{"timestamp":"2026-10-19T08:32:00Z","source_ip":"192.0.2.10","username":"training-user","event_type":"authentication","outcome":"success"}
+{"timestamp":"2026-10-19T08:33:00Z","source_ip":"192.0.2.10","username":"admin-training","event_type":"authentication","outcome":"failed"}
+{"timestamp":"2026-10-19T08:34:00Z","source_ip":"192.0.2.10","username":"admin-training","event_type":"authentication","outcome":"failed"}
+{"timestamp":"2026-10-19T08:35:00Z","source_ip":"198.51.100.23","username":"training-user","event_type":"authentication","outcome":"failed"}
+{"timestamp":"2026-10-19T08:36:00Z","source_ip":"198.51.100.23","username":"training-user","event_type":"authentication","outcome":"failed"}
